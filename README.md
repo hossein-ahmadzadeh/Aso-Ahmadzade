@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me:
   LinkedIn: https://www.linkedin.com/in/hosein-ahmadzade-55867b1b8
+  
   Telegram: https://t.me/HoseinAhmadzade
 
 <!---
