@@ -12,19 +12,25 @@
 
 </br>
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Hosein-Ahmadzade.Hosein-Ahmadzade)
+
+</br>
+
+<details>
+
+<summary>
+More stuff about me🙂
+</summary>
+
 ### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 ### Github Stats
 
 [![Hosein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosein-Ahmadzade&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosein-Ahmadzade&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Hosein-Ahmadzade.Hosein-Ahmadzade)
+</details>
