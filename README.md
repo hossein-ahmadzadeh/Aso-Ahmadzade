@@ -28,7 +28,7 @@ More stuff about me🙂
 
 <!--START_SECTION:waka-->
 ```text
-
+Python   21 mins         ████████████████████████░   96.26 % 
 ```
 <!--END_SECTION:waka-->
 
