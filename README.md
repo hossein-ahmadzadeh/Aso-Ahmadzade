@@ -29,7 +29,7 @@ More stuff about me🙂
 
 <!--START_SECTION:waka-->
 ```text
-Python   40 mins         █████████████████████████   99.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
