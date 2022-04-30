@@ -3,7 +3,7 @@
   ### I’m interested in *Artificial Intelligence* 👀
   ### I’m full familiar with *Python*, *Dash Framework* and *Flask Micro Web Framework*
   ### Also I know about *HTML5*, *CSS3* and *BootStrap Framework*
-  ### I’m looking to collaborate on *AI* 💞️
+  ### I’m looking to collaborate on *AI* 
   ### :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-AsoAhmadzade-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AsoAhmadzade)](https://twitter.com/@AsoAhmadzade) [![Telegram Badge](https://img.shields.io/badge/-AsoAhmadzade-289CCE?style=flat&labelColor=289CCE&logo=telegram&logoColor=white&link=https://t.me/AsoAhmadzade)](https://t.me/AsoAhmadzade) [![Linkedin Badge](https://img.shields.io/badge/-Aso-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aso-ahmadzade-55867b1b8) [![Mail Badge](https://img.shields.io/badge/-aso.ahmadzade.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aso.ahmadzade.dev@gmail.com)
