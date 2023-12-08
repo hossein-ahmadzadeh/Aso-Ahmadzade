@@ -11,14 +11,6 @@
 ### 💻 Top Technologies
 [![Python Badge](https://img.shields.io/badge/-python-FFD43B?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B)](#) [![Html5 Badge](https://img.shields.io/badge/-Html5-DD4B25?style=for-the-badge&labelColor=black&logo=html5&logoColor=DD4B25)](#) [![Css3 Badge](https://img.shields.io/badge/-CSS3-254BDD?style=for-the-badge&labelColor=black&logo=css3&logoColor=254BDD)](#) [![Markdown Badge](https://img.shields.io/badge/-markdown-761D9C?style=for-the-badge&labelColor=black&logo=markdown&logoColor=761D9C)](#) [![Wordpress Badge](https://img.shields.io/badge/-wordpress-207196?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=207196)](#) [![Git Badge](https://img.shields.io/badge/-git-E94E31?style=for-the-badge&labelColor=black&logo=git&logoColor=E94E31)](#) [![Java Badge](https://img.shields.io/badge/-java-green?style=for-the-badge&labelColor=black&logo=java&logoColor=green)](#) [![Scss Badge](https://img.shields.io/badge/-Sass-CE6C9F?style=for-the-badge&labelColor=black&logo=sass&logoColor=CE6C9F)](#) [![Less Badge](https://img.shields.io/badge/-Less-204470?style=for-the-badge&labelColor=black&logo=less&logoColor=204470)](#)
 
-</br>
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aso-Ahmadzade.Aso-Ahmadzade)
-
-</br>
-
 <details>
 
 <summary>
